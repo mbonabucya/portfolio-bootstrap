@@ -1,0 +1,99 @@
+.navbar-brand {
+  /* My Logo */
+
+width: 76px;
+height: 20px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+color: #6070FF;
+
+
+}
+
+.card {
+    margin-bottom: 23px;
+    margin-top: 142px;
+    width: 100%;
+}
+
+ul li {
+list-style: none;
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+}
+.container
+{
+    margin-top: 120px;
+}
+
+.language li{
+    background-color: azure;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.image
+{
+    margin: 10px 0px 10px 10px;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 130px;
+    align-items: center;
+}
+
+input
+{
+    width: 260px;
+}
+
+textarea
+{
+    width: 260px;
+}
+
+.contact-form
+{
+  margin-top: 166px;
+  background-image: url("image/contact-bg.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 50px;
+  padding-bottom: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.headline-section p
+{
+  /* Primary Text */
+
+width: 920px;
+height: 98px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+color: #344563
+}
+
+.headline-section
+{
+    background-image: url("/image/Background.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1420px; 
+}
+
