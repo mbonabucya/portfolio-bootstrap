@@ -1,0 +1,28 @@
+.card {
+    margin-bottom: 23px;
+    width: 100%;
+}
+
+ul li {
+list-style: none;
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+}
+.container
+{
+    margin-top: 120px;
+}
+
+.language li{
+    background-color: azure;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.image
+{
+    margin: 10px 0px 10px 10px;
+}
